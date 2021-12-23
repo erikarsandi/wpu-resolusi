@@ -3,6 +3,7 @@ JAVA SCRIPT
 * E56
 * Framework Javascript
 ^ vue
+^ react
 sturktur data dasar
 PHP FRAMEWORK
 ^ laravel
