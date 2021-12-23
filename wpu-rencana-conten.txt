@@ -2,7 +2,9 @@ RENCANA KONTEN WPU
 JAVA SCRIPT
 * E56
 * Framework Javascript
-sturktur data dasar
+^ angular
+^ react
 PHP FRAMEWORK
+^ laravel
 INTERVIEW 
 VLOGS
